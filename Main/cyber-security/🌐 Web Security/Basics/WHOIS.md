@@ -1,0 +1,1 @@
+WHOIS is a database used to identify who owns a Domain, and how to get in contact with them. 

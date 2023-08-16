@@ -1,0 +1,4 @@
+```bash
+perl -e 'command'
+```
+

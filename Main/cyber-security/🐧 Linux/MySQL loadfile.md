@@ -1,0 +1,1 @@
+You can use the `select load_file(...)` in sql to output the contents of any file.

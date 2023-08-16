@@ -1,0 +1,1 @@
+To convert a number to a negative number, we invert the bits, and add one. So `0011` becomes `1100 + 0001` = `1101`. This seems complicated, why is this useful? Well it’s simple, this makes it so we can use the same arithmetic operations on negative numbers as on positive ones. This is called the __twos compliment__

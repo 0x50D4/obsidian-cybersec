@@ -1,0 +1,2 @@
+- Every byte of data has it's own address in memory
+- Memory addresses are __double words__

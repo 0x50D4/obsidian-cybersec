@@ -1,0 +1,1 @@
+We allocate a register to point to somewhere in memory, and substract or add to that register when we want to access data. This is about a 64KiB area

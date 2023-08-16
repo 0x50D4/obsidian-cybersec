@@ -1,0 +1,1 @@
+You can find the `robots.txt` file on almost any site. The purpose of it is to disallow some parts of the site, so the web crawler doesn't crawl them (like google).

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"group","id":"9914a99db6c8c549","x":-640,"y":-240,"width":4350,"height":1725,"label":"Basics"},
+		{"id":"022263e4f956e949","x":2760,"y":960,"width":885,"height":440,"type":"group","label":"Ldap"},
+		{"id":"684db891b261ce3d","x":2720,"y":-2240,"width":250,"height":56,"type":"text","text":"Web Security\n"},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/Accessing other users content.md","id":"eacc5234818d5318","x":-620,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/WHOIS.md","id":"b4a0bd2a45aefa9b","x":-620,"y":245,"width":400,"height":400},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/Bypass Login.md","id":"485950322affda17","x":-170,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/Code Injection Basics.md","id":"2d037b3c149ac4ed","x":-170,"y":245,"width":400,"height":400},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/Directory Traversal.md","id":"6e6569c50bac384a","x":270,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/Html comments.md","id":"1299375a1f469dae","x":710,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/Network Socket.md","id":"a3389d0c26419712","x":1150,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/Robots.md","id":"2d259682e483fa09","x":710,"y":245,"width":400,"height":400},
+		{"type":"file","file":"cyber-security/🌐 Web Security/Basics/Secure Socket Layer (SSL).md","id":"55e9b012a0613828","x":270,"y":245,"width":400,"height":400},
+		{"id":"c7a72d7d47979e39","x":2780,"y":980,"width":400,"height":400,"type":"file","file":"cyber-security/🌐 Web Security/LDAP/LDAP Basics.md"},
+		{"id":"2eee3f5fae0b2500","x":3225,"y":980,"width":400,"height":400,"type":"file","file":"cyber-security/🌐 Web Security/LDAP/LDAP injection.md"}
+	],
+	"edges":[
+		{"id":"497f94db6dd91c20","fromNode":"684db891b261ce3d","fromSide":"right","toNode":"9914a99db6c8c549","toSide":"top"}
+	]
+}
