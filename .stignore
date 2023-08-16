@@ -1,8 +1,0 @@
-workspace
-graph.json
-*.json
-plugins
-.obsidian
-.obsidian/*
-.git/*
-.gitignore
